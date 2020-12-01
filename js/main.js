@@ -27,6 +27,7 @@ let login = localStorage.getItem("gloDelivery");
 
 function toggleModal() {
   modal.classList.toggle("is-open");
+  
 }
 
 
